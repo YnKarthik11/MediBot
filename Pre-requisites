@@ -1,0 +1,11 @@
+step 1 :-install VS code
+step 2 :-python  3.6.0
+step  3 :-pip install --user flask_sqlalchemy
+              pip install --flask
+              pip install --jinja2
+              pip install --numpy
+              pip install --pillow
+            pip install --requests
+            pip install --werkzeug
+            pip install --duckduckgosearch
+    
